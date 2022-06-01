@@ -14,6 +14,7 @@
 		E64741B2283A82B500548FEB /* CustomerClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64741B1283A82B500548FEB /* CustomerClass.swift */; };
 		E64741B4283BB99A00548FEB /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64741B3283BB99A00548FEB /* Location.swift */; };
 		E66F99E5283BC3B900892FB5 /* LocationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E66F99E4283BC3B900892FB5 /* LocationView.swift */; };
+		E6FEC55B28479AEF000F6FBC /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E6FEC55A28479AEF000F6FBC /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		E64741B1283A82B500548FEB /* CustomerClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomerClass.swift; sourceTree = "<group>"; };
 		E64741B3283BB99A00548FEB /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		E66F99E4283BC3B900892FB5 /* LocationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationView.swift; sourceTree = "<group>"; };
+		E6FEC55A28479AEF000F6FBC /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				E64741A3283A5F8B00548FEB /* LaundryAppApp.swift */,
 				E64741A5283A5F8B00548FEB /* ContentView.swift */,
 				E64741B3283BB99A00548FEB /* Location.swift */,
+				E6FEC55A28479AEF000F6FBC /* GoogleService-Info.plist */,
 				E64741A7283A5F8D00548FEB /* Assets.xcassets */,
 				E64741A9283A5F8D00548FEB /* Preview Content */,
 				E66F99E4283BC3B900892FB5 /* LocationView.swift */,
@@ -136,6 +139,7 @@
 			files = (
 				E64741AB283A5F8D00548FEB /* Preview Assets.xcassets in Resources */,
 				E64741A8283A5F8D00548FEB /* Assets.xcassets in Resources */,
+				E6FEC55B28479AEF000F6FBC /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
